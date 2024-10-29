@@ -16,6 +16,7 @@ target/
 *.ipr
 indexes
 upload-dir
+*.json
 
 ### NetBeans ###
 nbproject/private/
